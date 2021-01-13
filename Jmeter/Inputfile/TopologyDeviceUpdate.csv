@@ -1,0 +1,2 @@
+resourceType,name,type,deviceResourceType,deviceName1,deviceActionAdd,deviceActionRemove
+Topology,SHAIK/TEST/LAG,MC-LAG,Device,GLBRAZTT9K001,ADD,REMOVE

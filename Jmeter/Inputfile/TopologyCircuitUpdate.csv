@@ -1,0 +1,2 @@
+resourceType,name,type,circuitResourceType,circuitName1,circuitActionAdd,circuitActionRemove
+Topology,PPS_TOPO_Test_05,MC-LAG,Circuit,00HVKZ/GE1L/CHRMNC72/CHRMNC72_1,ADD,REMOVE

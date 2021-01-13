@@ -1,0 +1,2 @@
+resourceType,name,type,status,transactionId,aendDeviceName,aendPortName,aendLocationName,zendDeviceName,zendPortName,zendLocationName,routesResourceType,routeItemsType,routeItemsSequence,routeItemsCapacityUsage,circuitId,circuitName,circuitResourceType,customerResourceType,customerName
+Circuit,MINERLABQS001_Srishti3-LAG1-CIRCUIT2,LAG,Planned,Srishti538Z12LAP2,DSX-4B-C-T01,,DSX-4B-C-NE01,SC 250VA 230V-NE01,,SC 250VA 230V-NE01,Route,Circuit,1,1,1609622,MINERLABQS001_SHAIK-EB-CIRCUIT,Circuit,,

@@ -1,0 +1,2 @@
+resourceType,name,type,id,devicesResourceType,devicesName,devicesPortResourceType,devicesPortName
+Number,31,SVLAN,4523590,Device,YORKPAFAZE001,Port,TenGigabitEthernet0/0/3

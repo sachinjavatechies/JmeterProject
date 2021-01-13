@@ -1,0 +1,2 @@
+resourceType,name,transactionId,attributesName1,attributesValue1,attributesName2,attributesValue2,attributesName3,attributesValue3,attributesName4,attributesValue4,customerResourceType,customerName,uniResourceType,uniName,olineResourceType,olineName,vrfResourceType,vrfName
+IpVpnEndpoint,Test1001,Test101_DIA,COS_ALLOCATION,Single,WAN_ROUTING_PROTOCOL,BGP,PIID,Velocity_123456,ORIG_SYSTEM_NAME,Velocity,Customer,1203334,Uni,TX/KXFN/229330/LVLC-MICKEY2,OLine,19/KFFN/104434/TWCS_O_Line,Vrf,1164-1-INCONTACT-ChildrensHOSP-2005451891-L3VPN

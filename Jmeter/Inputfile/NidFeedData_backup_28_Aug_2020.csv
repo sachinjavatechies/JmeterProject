@@ -1,0 +1,3 @@
+resourceType,transactionId,installedAt_name,installedAt_type,portSpeed,interfaceType,powerAtSite,backupPowerAtSite
+Nid,PPS_NidTest_01,GLBRAZTT,Location,100 Mbps,Copper,AC,No
+Nid,PPS_NidTest_02,GLBRAZTT,Location,1 Gbps,Fiber,AC,Yes

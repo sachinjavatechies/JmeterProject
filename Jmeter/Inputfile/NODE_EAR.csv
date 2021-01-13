@@ -1,0 +1,3 @@
+resourceType,name,type,subType,status,installedAt_name,installedAt_type,containerNodeName
+Node,EAR-Test-01,NE::Router,Router,Planned,LTTNCOML,Location,
+Node,EAR-Test-01-NA,Alcatel-Lucent::Router,Alcatel 7750 SR-12,Planned,LTTNCOML,Location,EAR-PPS-01

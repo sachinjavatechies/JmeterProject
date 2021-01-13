@@ -1,0 +1,49 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1598881647860,2214,SVLAN CREATE,200,,ASRI_SVLAN_SERVCES 5-1,text,true,,440,382,1,4,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/numbers,2210,0,385
+1598881647860,6942,EVCENDPOINT CREATE,200,,ASRI_EVCENDPOINT_SERVICES 3-1,text,true,,2883,918,1,4,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcendpoints,6941,0,371
+1598881647860,7231,UNI CREATE,200,,ASRI_UNI_SERVICES 4-1,text,true,,1638,811,1,4,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/unis,7231,0,377
+1598881650135,5946,SVLAN DELETE,200,,ASRI_SVLAN_SERVCES 5-1,text,true,,345,524,1,4,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/numbers,5946,0,0
+1598881647860,9197,EVC POST CREATE,200,,ASRI_EVC_Services 1-1,text,true,,775,608,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,9197,0,381
+1598881657062,1,Debug Sampler,200,OK,ASRI_EVC_Services 1-1,text,true,,809,0,1,3,null,0,0,0
+1598881654804,2440,EVCENDPOINT DELETE,200,,ASRI_EVCENDPOINT_SERVICES 3-1,text,true,,369,343,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcendpoints,2440,0,0
+1598881657064,822,EVC GET Detail By ID,200,,ASRI_EVC_Services 1-1,text,true,,980,199,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs/1914899,822,0,0
+1598881657887,321,Customer Detail Missing 1,400,,ASRI_EVC_Services 1-1,text,true,,334,583,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,321,0,0
+1598881658210,340,EVC-Passing NULL Value Of Name Field,400,,ASRI_EVC_Services 1-1,text,true,,321,599,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,340,0,0
+1598881658551,914,EVC-Customer Details Missing 2,400,,ASRI_EVC_Services 1-1,text,true,,335,526,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,914,0,0
+1598881655092,5742,UNI DELETE,200,,ASRI_UNI_SERVICES 4-1,text,true,,352,310,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/unis,5742,0,0
+1598881659466,2574,EVC Service ID Deletion,200,,ASRI_EVC_Services 1-1,text,true,,350,308,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,2574,0,0
+1598881657244,6662,EVCENDPOINT CREATE,200,,ASRI_EVCENDPOINT_SERVICES 3-1,text,true,,2883,918,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcendpoints,6662,0,0
+1598881663907,2090,EVCENDPOINT DELETE,200,,ASRI_EVCENDPOINT_SERVICES 3-1,text,true,,369,343,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcendpoints,2090,0,0
+1598881660835,7093,UNI CREATE,200,,ASRI_UNI_SERVICES 4-1,text,true,,1637,811,1,2,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/unis,7093,0,0
+1598881662041,8849,EVC POST CREATE,200,,ASRI_EVC_Services 1-1,text,true,,776,608,1,2,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,8849,0,0
+1598881670891,0,Debug Sampler,200,OK,ASRI_EVC_Services 1-1,text,true,,809,0,1,2,null,0,0,0
+1598881670892,1837,EVC GET Detail By ID,200,,ASRI_EVC_Services 1-1,text,true,,980,199,1,2,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs/1914904,1837,0,0
+1598881667929,4980,UNI DELETE,200,,ASRI_UNI_SERVICES 4-1,text,true,,351,310,1,2,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/unis,4980,0,0
+1598881672730,717,Customer Detail Missing 1,400,,ASRI_EVC_Services 1-1,text,true,,334,583,1,1,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,716,0,0
+1598881673447,793,EVC-Passing NULL Value Of Name Field,400,,ASRI_EVC_Services 1-1,text,true,,322,599,1,1,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,793,0,0
+1598881674241,415,EVC-Customer Details Missing 2,400,,ASRI_EVC_Services 1-1,text,true,,335,526,1,1,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,415,0,0
+1598881674656,1884,EVC Service ID Deletion,200,,ASRI_EVC_Services 1-1,text,true,,349,308,1,1,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,1884,0,0
+1600066645059,2572,SVLAN CREATE,200,,ASRI_SVLAN_SERVCES 5-1,text,true,,441,382,1,4,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/numbers,2565,0,796
+1600066647688,6069,SVLAN DELETE,200,,ASRI_SVLAN_SERVCES 5-1,text,true,,346,524,1,4,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/numbers,6069,0,0
+1600066645059,9977,EVCENDPOINT CREATE,200,,ASRI_EVCENDPOINT_SERVICES 3-1,text,true,,2881,918,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcendpoints,9973,0,796
+1600066645059,9979,UNI CREATE,200,,ASRI_UNI_SERVICES 4-1,text,true,,1639,811,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/unis,9979,0,796
+1600066645059,10930,EVC POST CREATE,200,,ASRI_EVC_Services 1-1,text,true,,777,608,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,10930,0,796
+1600066655991,2,Debug Sampler,200,OK,ASRI_EVC_Services 1-1,text,true,,809,0,1,3,null,0,0,0
+1600066655040,1586,EVCENDPOINT DELETE,200,,ASRI_EVCENDPOINT_SERVICES 3-1,text,true,,366,343,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcendpoints,1586,0,0
+1600066655994,959,EVC GET Detail By ID,200,,ASRI_EVC_Services 1-1,text,true,,980,199,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs/1915124,959,0,0
+1600066656953,395,Customer Detail Missing 1,400,,ASRI_EVC_Services 1-1,text,true,,335,583,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,395,0,0
+1600066657350,564,EVC-Passing NULL Value Of Name Field,400,,ASRI_EVC_Services 1-1,text,true,,323,599,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,564,0,0
+1600066657915,587,EVC-Customer Details Missing 2,400,,ASRI_EVC_Services 1-1,text,true,,334,526,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,587,0,0
+1600066655040,5106,UNI DELETE,200,,ASRI_UNI_SERVICES 4-1,text,true,,353,310,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/unis,5106,0,0
+1600066658503,1961,EVC Service ID Deletion,200,,ASRI_EVC_Services 1-1,text,true,,350,308,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,1961,0,0
+1600066656628,6969,EVCENDPOINT CREATE,200,,ASRI_EVCENDPOINT_SERVICES 3-1,text,true,,2883,918,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcendpoints,6961,0,0
+1600066663598,1570,EVCENDPOINT DELETE,200,,ASRI_EVCENDPOINT_SERVICES 3-1,text,true,,367,343,1,3,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcendpoints,1570,0,0
+1600066660147,7358,UNI CREATE,200,,ASRI_UNI_SERVICES 4-1,text,true,,1638,811,1,2,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/unis,7358,0,0
+1600066660465,9008,EVC POST CREATE,200,,ASRI_EVC_Services 1-1,text,true,,776,608,1,2,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,9008,0,0
+1600066669474,1,Debug Sampler,200,OK,ASRI_EVC_Services 1-1,text,true,,809,0,1,2,null,0,0,0
+1600066669476,752,EVC GET Detail By ID,200,,ASRI_EVC_Services 1-1,text,true,,979,199,1,2,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs/1915129,752,0,0
+1600066670230,388,Customer Detail Missing 1,400,,ASRI_EVC_Services 1-1,text,true,,335,583,1,2,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,388,0,0
+1600066670619,409,EVC-Passing NULL Value Of Name Field,400,,ASRI_EVC_Services 1-1,text,true,,323,599,1,2,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,409,0,0
+1600066671030,634,EVC-Customer Details Missing 2,400,,ASRI_EVC_Services 1-1,text,true,,335,526,1,2,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,634,0,0
+1600066667507,4282,UNI DELETE,200,,ASRI_UNI_SERVICES 4-1,text,true,,353,310,1,2,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/unis,4282,0,0
+1600066671665,1966,EVC Service ID Deletion,200,,ASRI_EVC_Services 1-1,text,true,,350,308,1,1,http://sasi-test1.kubeodc.corp.intranet/inventory/v1/asri/evcs,1966,0,0

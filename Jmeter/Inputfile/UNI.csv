@@ -1,0 +1,3 @@
+resourceType,name,transactionId,attributesName1,attributesValue1,attributesName2,attributesValue2,status,customer_resourceType,customer_name,zendDeviceName,zendPortName,zendLocationName
+Uni,Uni_Test5000,SwiTest_UNI_5000,UNI_TYPE,Multiplexed,UNI_MODE,MM,In Service,Customer,1039572,ASBNVAMGZG003,GigabitEthernet0/0/0,ASBNVAMG
+Uni,Uni_Test5001,SwiTest_UNI_5001,UNI_TYPE,Multiplexed,UNI_MODE,MM,In Service,Customer,1039572,ASBNVAMGZG003,GigabitEthernet0/0/0,ASBNVAMG
